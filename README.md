@@ -121,7 +121,7 @@ The database includes the following tables:
 * ⭐ **Rider ratings based on delivery time**
 * 📈 **Monthly growth and seasonal demand patterns**
 
-> Want to see all 20 problems and solutions? [View the SQL file](https://github.com/Garima-Khandelwal-1/Dishcover/blob/main/20%20Business%20Problems%20solution.sql)
+> Want to see all 20 problems and solutions? [View the SQL file](https://github.com/SakshiDhaka/Food-delivery-analytics/blob/main/20%20Business%20Problems%20solution.sql)
 
 ---
 
@@ -139,18 +139,9 @@ This project is purely academic and was created for learning and portfolio purpo
 
 ---
 
-## 📊 What's Next?
-I'm planning to:
-
-Complete the Power BI dashboard to visualize trends like customer segmentation, seasonal demand, and delivery ratings
-
-Upload the .pbix file to GitHub for live interaction
-
-Possibly integrate Tableau for cross-platform visualization experience
-
 ## 👩‍💻 About Me
 
-I’m a final-year B.Tech CSE student exploring data analytics, full-stack development. This project helped me practice:
+I’m a final-year B.Tech CSE student exploring product analytics and management. This project helped me practice:
 
 * Real-life database modeling
 * Data cleaning
