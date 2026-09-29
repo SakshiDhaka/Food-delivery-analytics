@@ -40,12 +40,7 @@ This project also helped me visualize insights using Power BI, making the data e
 
 To make the insights more interactive and visually compelling, I designed a **Power BI dashboard** for the **Dishcover** project using real-world food delivery data. This dashboard provides a clear overview of key business metrics through intuitive visuals:
 
-### 📸 Dashboard Preview
-
-![Dishcover Power BI Dashboard](dashboard/(https://github.com/user-attachments/assets/bc6a5669-bb38-458a-970d-324056c773bf)
-)
-
-### 🔍 Key Highlights:
+### 🔍 Key Highlights of the dashboard:
 
 - 💰 **Total Sales**: ₹987M across 150K orders  
 - 🍛 **Category Breakdown**:
