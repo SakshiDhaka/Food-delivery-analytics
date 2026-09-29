@@ -28,7 +28,7 @@ Through Dishcover, I didn’t just write SQL queries—I learned how to think li
 🔍 Data Filtering & Retrieval – Wrote queries to get the right answers from large datasets
 📊 Aggregation & Grouping – Used functions like SUM, COUNT, AVG to find key insights
 🔗 Joins – Connected multiple tables (e.g., orders, customers, restaurants) to get complete answers
-🪟 Window Functions – Used RANK, ROW_NUMBER,LAG etc., for advanced analysis
+🪟 Window Functions – Used RANK, ROW_NUMBER,etc., for advanced analysis
 🕒 Date & Time Functions – Found trends over months, years, time slots
 🔁 Conditional Logic – Applied CASE WHEN to add logic inside SQL queries
 🧠 Subqueries – Wrote queries inside queries for more complex problems
